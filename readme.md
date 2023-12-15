@@ -1,0 +1,2 @@
+
+Este simulador bancário em Java utiliza conceitos de programação orientada a objetos para criar contas correntes e poupanças. A hierarquia de classes inclui uma classe abstrata ContaBancaria, subclasses ContaCorrente e ContaPoupanca, e um simulador que realiza operações simuladas. O programa demonstra o uso de herança, polimorfismo e abstração, proporcionando uma introdução prática a esses conceitos fundamentais.
